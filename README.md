@@ -1,3 +1,5 @@
+Copyright (c) 2023 Ueliton Alves Dos Santos
+Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 # Este projeto ainda está em construção!
 
 # ptwm(Titans War Macro Premium)
