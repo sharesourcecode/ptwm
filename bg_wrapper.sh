@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Copyright (c) 2019-2023 Ueliton Alves Dos Santos
+# Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
 # Verifica se o arquivo de entrada foi fornecido
 if [ -z "$1" ]; then
  echo "Uso: $0 arquivo"
