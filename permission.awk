@@ -1,5 +1,8 @@
 #!/system/bin/awk -f
 
+# Copyright (c) 2019-2023 Ueliton Alves Dos Santos
+# Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
 BEGIN {
  # Diretórios a serem testados
  dir1 = "/storage/emulated/0"
